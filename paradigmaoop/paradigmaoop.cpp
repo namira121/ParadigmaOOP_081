@@ -3,7 +3,7 @@
 using namespace std;
 
 class orang {
-public:
+public: 
 	string nama;
 
 	orang(string, pNama) :
