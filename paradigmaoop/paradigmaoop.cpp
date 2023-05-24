@@ -19,3 +19,8 @@ public:
 	}
 
 };
+
+class pelajar : public orang {
+public:
+	string sekolah;
+};
